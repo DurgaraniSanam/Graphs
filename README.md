@@ -52,6 +52,7 @@ graph = {
   'C': ['A'],
   'D': ['B']
 }
+```
 ### 2. **Adjacency Matrix:**
 A 2D matrix where `matrix[i][j]` is 1 (or weight) if there is an edge from vertex `i` to vertex `j`.
 
